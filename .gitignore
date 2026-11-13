@@ -1,0 +1,29 @@
+
+# PlatformIO generated files
+.pio/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code workspace settings (optional)
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Compiled output
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Temporary files
+*.tmp
+*.log
